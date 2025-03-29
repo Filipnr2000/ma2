@@ -5,9 +5,8 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| #Filip Nikolai Rognerud# | #S152668# |
+| #Markus Lam# | #S145560# |
 
 ***
 
